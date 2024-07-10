@@ -1,0 +1,302 @@
+{
+  "starships": [
+    {
+      "id": "1",
+      "name": "USS Enterprise",
+      "class": "Galaxy",
+      "registrationNumber": "NCC-1701-D",
+      "dateOfCommission": "2363",
+      "manufacturingPlace": "Utopia Planitia Fleet Yards, Mars",
+      "crew": [
+        "1",
+        "2",
+        "3",
+        "19"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "USS Voyager",
+      "class": "Intrepid",
+      "registrationNumber": "NCC-74656",
+      "dateOfCommission": "2371",
+      "manufacturingPlace": "Utopia Planitia Fleet Yards, Mars",
+      "crew": [
+        "4",
+        "5",
+        "6"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "USS Defiant",
+      "class": "Defiant",
+      "registrationNumber": "NX-74205",
+      "dateOfCommission": "2370",
+      "manufacturingPlace": "Antares Ship Yards, Antares",
+      "crew": [
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "USS Cerritos",
+      "class": "California",
+      "registrationNumber": "NCC-75567",
+      "dateOfCommission": "2380",
+      "manufacturingPlace": "San Francisco Fleet Yards, Earth",
+      "crew": [
+        "10",
+        "11",
+        "12"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "USS Protostar",
+      "class": "Protostar",
+      "registrationNumber": "NX-76884",
+      "dateOfCommission": "2384",
+      "manufacturingPlace": "Utopia Planitia Fleet Yards, Mars",
+      "crew": [
+        "13",
+        "14",
+        "15"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "USS Excelsior",
+      "class": "Excelsior",
+      "registrationNumber": "NCC-2000",
+      "dateOfCommission": "2287",
+      "manufacturingPlace": "San Francisco Fleet Yards, Earth",
+      "crew": [
+        "16",
+        "17",
+        "18"
+      ]
+    }
+  ],
+  "crewMembers": [
+    {
+      "id": "1",
+      "name": "Jean-Luc Picard",
+      "rank": "Captain",
+      "position": "Commanding Officer",
+      "starfleetSerialNumber": "SP-937-215",
+      "recognitions": [
+        "Legion of Honor",
+        "Starfleet Medal of Valor",
+        "Star Cross",
+        "Christopher Pike Medal of Valor"
+      ],
+      "starshipId": "1"
+    },
+    {
+      "id": "2",
+      "name": "William Riker",
+      "rank": "Commander",
+      "position": "First Officer",
+      "starfleetSerialNumber": "SC-231-427",
+      "recognitions": [
+        "Starfleet Medal of Valor",
+        "Legion of Honor"
+      ],
+      "starshipId": "1"
+    },
+    {
+      "id": "3",
+      "name": "Data",
+      "rank": "Lieutenant Commander",
+      "position": "Operations Officer",
+      "starfleetSerialNumber": "SO-319-474",
+      "recognitions": [
+        "Daystrom Prize"
+      ],
+      "starshipId": "1"
+    },
+    {
+      "id": "4",
+      "name": "Kathryn Janeway",
+      "rank": "Captain",
+      "position": "Commanding Officer",
+      "starfleetSerialNumber": "JC-698-579",
+      "recognitions": [
+        "Christopher Pike Medal of Valor",
+        "Starfleet Medal of Valor",
+        "Legion of Honor"
+      ],
+      "starshipId": "2"
+    },
+    {
+      "id": "5",
+      "name": "Chakotay",
+      "rank": "Commander",
+      "position": "First Officer",
+      "starfleetSerialNumber": "SC-649-383",
+      "recognitions": [],
+      "starshipId": "2"
+    },
+    {
+      "id": "6",
+      "name": "Tuvok",
+      "rank": "Lieutenant Commander",
+      "position": "Chief of Security",
+      "starfleetSerialNumber": "SO-187-238",
+      "recognitions": [
+        "Legion of Honor"
+      ],
+      "starshipId": "2"
+    },
+    {
+      "id": "7",
+      "name": "Benjamin Sisko",
+      "rank": "Captain",
+      "position": "Commanding Officer",
+      "starfleetSerialNumber": "FS-289-793",
+      "recognitions": [
+        "Christopher Pike Medal of Valor",
+        "Star Cross"
+      ],
+      "starshipId": "3"
+    },
+    {
+      "id": "8",
+      "name": "Kira Nerys",
+      "rank": "Colonel",
+      "position": "First Officer",
+      "starfleetSerialNumber": "BJ-178-332",
+      "recognitions": [
+        "Starfleet Medal of Honor"
+      ],
+      "starshipId": "3"
+    },
+    {
+      "id": "9",
+      "name": "Julian Bashir",
+      "rank": "Lieutenant Commander",
+      "position": "Chief Medical Officer",
+      "starfleetSerialNumber": "MB-267-783",
+      "recognitions": [
+        "Legion of Honor"
+      ],
+      "starshipId": "3"
+    },
+    {
+      "id": "10",
+      "name": "Carol Freeman",
+      "rank": "Captain",
+      "position": "Commanding Officer",
+      "starfleetSerialNumber": "CF-892-432",
+      "recognitions": [],
+      "starshipId": "4"
+    },
+    {
+      "id": "11",
+      "name": "Jack Ransom",
+      "rank": "Commander",
+      "position": "First Officer",
+      "starfleetSerialNumber": "JR-783-239",
+      "recognitions": [],
+      "starshipId": "4"
+    },
+    {
+      "id": "12",
+      "name": "T'Ana",
+      "rank": "Lieutenant Commander",
+      "position": "Chief Medical Officer",
+      "starfleetSerialNumber": "TA-389-122",
+      "recognitions": [],
+      "starshipId": "4"
+    },
+    {
+      "id": "13",
+      "name": "Dal R'El",
+      "rank": "Captain",
+      "position": "Commanding Officer",
+      "starfleetSerialNumber": "DR-342-889",
+      "recognitions": [],
+      "starshipId": "5"
+    },
+    {
+      "id": "14",
+      "name": "Gwyn",
+      "rank": "Commander",
+      "position": "First Officer",
+      "starfleetSerialNumber": "GW-472-551",
+      "recognitions": [],
+      "starshipId": "5"
+    },
+    {
+      "id": "15",
+      "name": "Zero",
+      "rank": "Lieutenant Commander",
+      "position": "Chief Medical Officer",
+      "starfleetSerialNumber": "ZE-762-451",
+      "recognitions": [],
+      "starshipId": "5"
+    },
+    {
+      "id": "16",
+      "name": "Hikaru Sulu",
+      "rank": "Captain",
+      "position": "Commanding Officer",
+      "starfleetSerialNumber": "HS-372-998",
+      "recognitions": [
+        "Legion of Honor",
+        "Starfleet Medal of Valor"
+      ],
+      "starshipId": "6"
+    },
+    {
+      "id": "17",
+      "name": "Dmitri Valtane",
+      "rank": "Commander",
+      "position": "First Officer",
+      "starfleetSerialNumber": "DV-761-499",
+      "recognitions": [],
+      "starshipId": "6"
+    },
+    {
+      "id": "18",
+      "name": "Janice Rand",
+      "rank": "Lieutenant Commander",
+      "position": "Communications Officer",
+      "starfleetSerialNumber": "JR-283-194",
+      "recognitions": [],
+      "starshipId": "6"
+    },
+    {
+      "id": "20",
+      "name": "Spock",
+      "rank": "Commander",
+      "position": "Science Officer",
+      "starfleetSerialNumber": "S179-276SP",
+      "recognitions": [
+        "Starfleet Medal of Valor",
+        "Legion of Honor",
+        "Star Cross",
+        "Vulcanian Scientific Legion of Honor"
+      ],
+      "starshipId": "1"
+    },
+
+    {
+      "id": "19",
+      "name": "James T. Kirk",
+      "rank": "Captain",
+      "position": "Commanding Officer",
+      "starfleetSerialNumber": "SC937-0176CEC",
+      "recognitions": [
+        "Starfleet Medal of Honor",
+        "Starfleet Medal of Valor",
+        "Christopher Pike Medal of Valor",
+        "Palm Leaf of Axanar Peace Mission"
+      ],
+      "starshipId": "1"
+    }
+  ]
+}
